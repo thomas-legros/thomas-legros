@@ -59,7 +59,7 @@ Here are the tools and technologies I work with regularly:
 
 - Developed a **multi-threaded RTSP camera probing system** using **Shodan API**  
 - Contributed to open-source projects enhancing **cybersecurity tools**  
-- Built an **SSL certificate generator script** with advanced automation features  
+- Built an **multi-thread-script generator script** with advanced automation features  
 
 ---
 
