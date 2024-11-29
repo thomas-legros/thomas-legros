@@ -8,7 +8,7 @@ This repository is a showcase of my journey as a developer, highlighting project
 ## 📜 Table of Contents
 
 - [About Me](#about-me)
-- [Current Projects](https://github.com/thomas-legros/)
+- [Current Projects](https://github.com/thomas-legros?tab=repositories)
 - [Tech Stack](#tech-stack)
 - [Contributions & Achievements](#contributions--achievements)
 - [How to Reach Me](#how-to-reach-me)
